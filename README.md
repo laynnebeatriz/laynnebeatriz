@@ -1,5 +1,5 @@
 ## Olá 👋
-Me chamo Laynne Beatriz, estou me formando em Administração e atualmente estudo programação!
+Me chamo Laynne Beatriz, sou formada em Administração e atualmente estudo programação!
 
 - Atualmente estou aprendendo GitHub, HTML, CSS e JavaScript.
 
